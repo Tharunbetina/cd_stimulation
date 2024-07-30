@@ -1,4 +1,4 @@
-# Cd Stimulation
+# cd Stimulation
 
 ## Overview
 
@@ -62,6 +62,11 @@ Run the tests using the Python Interpreter using the following command:
 ```sh
 python test_cd_stimulate.py
 ```
+
+## Test Cases passed
+
+![Project Logo](passpic.png)
+
 
 ## License
 This project is open-source and available under the MIT License. Feel free to modify and distribute it.
