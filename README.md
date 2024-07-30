@@ -65,7 +65,7 @@ python test_cd_stimulate.py
 
 ## Test Cases passed
 
-![Project Logo](passpic.png)
+![Project Logo](image/passpic.png)
 
 
 ## License
